@@ -99,6 +99,12 @@ h2 {
     font-size: 1.5em;
 }
 
+section p {
+    color: white;
+    text-align: center;
+    font-size; 1em;
+}
+
 #parents {
     color: white;
     text-align: center;
